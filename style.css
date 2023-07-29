@@ -179,7 +179,7 @@ button{
     color: azure;
     border: none;
 }
-@media (max-width:375px){
+@media (max-width:500px){
     .container{
         height: 100%;
         width: 100%;
