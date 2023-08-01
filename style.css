@@ -204,6 +204,35 @@ button{
 }
 @media (min-width:1400px){
     .box{
-        height:390px
+        height:430px;
+    }
+    .leftbox{
+        padding-top: 15px;
+    }
+    .rightbox{
+        padding-top: 15px;
+    }
+    #p4{
+        top: 80px;
+    }
+    #p5{
+        top: 105px;
+    }
+    .circle{
+        top: 50px;
+        height: 150px;
+        width: 150px;
+    }
+    .result{
+        position: relative;
+        top: 20px;
+    }
+    button{
+        position: relative;
+        top: 60px;
+        height: 40px;
+    }
+    .subject{
+        height: 45px;
     }
 }
